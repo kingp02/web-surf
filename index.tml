@@ -1,0 +1,45 @@
+
+<html>
+<head><title>Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/</title>
+<meta name="robots" content="noindex,nofollow">
+</head>
+<body bgcolor = "#ffffff" text = "#000000" vlink = "#800080" link = "#0000ff"
+alink = "#ff0000" clink = "#ff0000" style="margin-top:0px;">
+<a name = "top"><!-- gw
+676f706865723a2f2f676f706865722e666c6f6f646761702e636f6d2f
+--></a>
+<div style="position: sticky; position: -webkit-sticky; top: 0; background:white; margin:0;">
+<table width = "100%" border = "0" cellpadding = "1" cellspacing = "0">
+<tr><td colspan="4">&nbsp;</td></tr>
+<tr>
+<td align = "left" valign = "top">
+<form action = "http://gopher.floodgap.com/gopher/" method = "post"
+onSubmit = "history.back();return false;">
+<input type = "submit" value = "&lt;&lt; Back"
+onClick = "history.back();return false;">
+</form>
+</td>
+<td align = "left" valign = "top">
+<form action = "/gopher/gw" method = "get">
+<input type = "submit" value = "Floodgap Gopher">
+</form>
+</td>
+<td align = "right" valign = "top">
+<form action = "/gopher/gw" method = "get">
+<input type = "text" name = "a" value = "gopher://gopher.floodgap.com/" size = "50">
+<input type = "submit" value = "GO!">
+</form>
+</td>
+<td align = "right" valign = "top">
+<a href = "gopher://gopher.floodgap.com/">View in Gopher client</a> |
+<a href = "/gopher/">HELP! with proxy</a> |
+<b><a href = "http://www.floodgap.com/">www.floodgap.com</a></b>
+</td>
+</tr>
+</table>
+<!--returnshot-->
+<hr noshade>
+</div>
+</body>
+</html>
+<!-- conntype = 1  -->
